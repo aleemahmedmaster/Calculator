@@ -1,0 +1,51 @@
+#key{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:#2C3D4D;
+    border-radius :30px;
+    padding: 5px;
+    width: 257px;
+    box-shadow: 0px 4px grey, 0px 10px 15px rgba(0, 0, 0, 0.2);
+    margin: 0px 0px 0px 500px;
+}
+
+
+.info{
+    color: black;
+    font-family: Courier New, Courier, monospace;
+    text-shadow:1px 1px white, 1000px 1000px 15px rgba(0, 0, 0, 0.2);
+    
+}
+
+
+h3{
+    color: white;
+    font-family: cursive;
+}
+
+
+button{
+    margin: 5px;
+    font-family:Courier;
+    padding: 20px;
+    color:white;
+    background-color:#33485B;
+    border-radius: 100px;
+    border: none;
+    box-shadow: 0px 4px #009788, 0px 10px 15px rgba(0, 0, 0, 0.2);
+}
+
+button:hover{
+    background-color:#6087A6;
+}
+button:active{
+    background-color: #2C3D4D;
+    color:white;
+    border-radius: 100px;
+}
+html{
+    background-color:black;
+    
+    background: radial-gradient(circle,black 50%, grey);
+     background-image: url("cal.jpg");
+     text-align: center;
+}
